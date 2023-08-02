@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;RestAPI_MYSQL_Nested_objects&apos;&#x0D;&#x0A;- Original project: &apos;RestAPI_MYSQL_Nested_objects&apos;&#x0D;&#x0A;- Original element: &apos;RestAPI_MYSQL_Nested_objects/src/main/java/helper&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;helper" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1690891415137" subPackages="false" version="1.0"/>
-</session>

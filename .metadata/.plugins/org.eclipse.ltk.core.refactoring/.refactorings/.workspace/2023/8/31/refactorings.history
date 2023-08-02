@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;RestAPI_MYSQL_Nested_objects&apos;" deleteContents="false" description="Delete resource &apos;RestAPI_MYSQL_Nested_objects&apos;" element1="/RestAPI_MYSQL_Nested_objects" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1690960130991"/>
-</session>

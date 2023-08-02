@@ -1,5 +1,0 @@
-package com.jpa.test.dao;
-
-public class UserRepository extends CrudRepository<T,D>  {
-
-}
