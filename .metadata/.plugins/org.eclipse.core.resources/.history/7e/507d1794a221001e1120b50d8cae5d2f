@@ -1,0 +1,6 @@
+package com.jpa.test.dao;
+import org.springframework.data.repository.CrudRepository;
+
+public class UserRepository extends CrudRepository<T,D>  {
+
+}
